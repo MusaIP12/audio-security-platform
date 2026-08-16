@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Project runtime data
+backend/app/uploads/
+backend/app/outputs/
+
+# OS
+.DS_Store
