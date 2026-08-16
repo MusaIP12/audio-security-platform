@@ -4,7 +4,7 @@
 
 Detect malware. Generate audio datasets. Audio-based security intelligence.
 
-![AudioSec Platform](./AudioSec.png)
+![AudioSec Platform](./Audiosec.png)
 
 
 ## About
